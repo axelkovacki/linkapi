@@ -1,4 +1,4 @@
-# LinkApi Test
+# LinkApi
 
 ## Installation
 
